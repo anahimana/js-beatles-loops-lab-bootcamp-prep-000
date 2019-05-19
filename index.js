@@ -23,7 +23,7 @@ function johnLennonFacts(arrayFacts) {
   while(counter < arrayFacts.length){
     counter += 1;
     console.log(johnFacts);
-    // console.log(arrayFacts[counter] + " !!!");s
+    console.log(arrayFacts[counter] + " !!!");
   }
 }
 
