@@ -26,7 +26,7 @@ function johnLennonFacts(arrayFacts) {
     // console.log(arrayFacts[counter] + " !!!");
     johnFacts.push(arrayFacts[counter] + " !!!");
   }
-  return; 
+  return johnFacts; 
 }
 
 const facts = [
