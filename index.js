@@ -1,5 +1,5 @@
 // add solution here
 
-function theBeatlesPlay() {
+function theBeatlesPlay(arrayPlayers, arrayInstruments) {
   // stuff
 }
