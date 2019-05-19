@@ -12,7 +12,7 @@ function theBeatlesPlay(arrayPlayers, arrayInstruments) {
 }
 
 function johnLennonFacts(arrayFacts) {
-  // While Loop
+  // Create counter
   let counter = 0;
   const johnFacts = arrayFacts.slice();
   while(counter < arrayFacts.length){
