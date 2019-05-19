@@ -36,4 +36,5 @@ const facts = [
 
 function iLoveTheBeatles(num) {
   const iArray = [];
+  return iArray
 }
