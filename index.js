@@ -22,7 +22,7 @@ function johnLennonFacts(arrayFacts) {
   // While Loop
   let counter = 0;
   while(counter < arrayFacts.length){
-    
+    counter += 1;
   }
 }
 
