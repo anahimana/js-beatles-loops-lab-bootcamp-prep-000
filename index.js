@@ -1,7 +1,7 @@
 // add solution here
 
 function theBeatlesPlay(arrayPlayers, arrayInstruments) {
-  const myArray = ["This", "That", "thot"];
+  const myArray = [];
   for (let i = 0; i < myArray.length; i++) {
     console.log(myArray[i]);
   }
