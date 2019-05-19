@@ -1,6 +1,6 @@
 // add solution here
 
-function theBeatlesPlay(arrayPlayers, arrayInstruments) {
+function theBeatlesPlay(array1, arrayInstruments) {
   const myArray = [];
   for (let i = 0; i < myArray.length; i++) {
     console.log(myArray[i]);
