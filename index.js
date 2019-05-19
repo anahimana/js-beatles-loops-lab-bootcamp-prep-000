@@ -54,6 +54,6 @@ function iLoveTheBeatles(num) {
   return iArray;
 }
 
-incrementCounter(1)
+incrementCounter(1);
 
 // console.log(iLoveTheBeatles(5));
