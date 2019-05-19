@@ -7,6 +7,7 @@ function theBeatlesPlay(arrayPlayers, arrayInstruments) {
     myArray.push(arrayPlayers[i] + " plays " + arrayInstruments[i].toLowerCase());
     // console.log(myArray);
   }
+  
   return myArray;
 }
 
