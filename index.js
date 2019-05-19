@@ -19,7 +19,7 @@ function theBeatlesPlay(arrayPlayers, arrayInstruments) {
 function johnLennonFacts(arrayFacts) {
   // While Loop
   let counter = 0;
-  // Copy array
+  var newArray = Object.assign({}, arrayFacts)
   while(counter < arrayFacts.length){
     counter += 1;
     console.log(arrayFacts[counter] + " !!!");
