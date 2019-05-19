@@ -14,7 +14,7 @@ function theBeatlesPlay(arrayPlayers, arrayInstruments) {
 function johnLennonFacts(arrayFacts) {
   // Create counter
   let counter = 0;
-  // copy array
+  // copy arrayFacts
   const johnFacts = arrayFacts.slice();
   // While Loop
   while(counter < arrayFacts.length){
