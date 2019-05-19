@@ -43,11 +43,11 @@ const facts = [
 
 function iLoveTheBeatles(num) {
   const iArray = [];
-  let counter = 0;
+  let num = 0;
   do {
-    counter += 1;
+    num += 1;
     iArray.push("I love the Beatles!");
-  } while(counter < 15);
+  } while(num < 15);
   
   return iArray;
 }
