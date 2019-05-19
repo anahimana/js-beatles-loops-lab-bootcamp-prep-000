@@ -35,7 +35,7 @@ const facts = [
 // console.log(johnLennonFacts(facts));
 
 var counter = 0;
-function incrementCounter(){
+function incrementCounter(counte){
   counter = counter + 1;
   return counter;
 }
