@@ -55,4 +55,5 @@ function iLoveTheBeatles(num) {
 }
 
 incrementCounter(5)
+
 // console.log(iLoveTheBeatles(5));
