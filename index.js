@@ -38,3 +38,5 @@ function iLoveTheBeatles(num) {
   const iArray = [];
   return iArray;
 }
+
+console.log(iLoveTheBeatles(5))
