@@ -39,4 +39,4 @@ function iLoveTheBeatles(num) {
   return iArray;
 }
 
-console.log(iLoveTheBeatles(5))
+console.log(iLoveTheBeatles(5));
