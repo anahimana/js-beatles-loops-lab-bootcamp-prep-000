@@ -24,6 +24,7 @@ function johnLennonFacts(arrayFacts) {
     counter += 1;
     console.log(johnFacts);
     console.log(arrayFacts[counter] + " !!!");
+    johnFacts.push(arrayFacts[counter] + " !!!")
   }
 }
 
