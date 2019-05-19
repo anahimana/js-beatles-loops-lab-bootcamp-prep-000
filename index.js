@@ -43,7 +43,6 @@ const facts = [
 
 function iLoveTheBeatles(num) {
   const iArray = [];
-  let num = 0;
   do {
     num += 1;
     iArray.push("I love the Beatles!");
