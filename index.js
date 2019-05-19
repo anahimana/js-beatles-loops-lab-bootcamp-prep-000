@@ -39,6 +39,9 @@ function incrementCounter(counter){
   return counter += 1;
 }
 
+
+incrementCounter(5)
+
 function iLoveTheBeatles(num) {
   const iArray = [];
   let counter = 0;
