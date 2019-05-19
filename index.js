@@ -35,5 +35,5 @@ const facts = [
 // console.log(johnLennonFacts(facts));
 
 function iLoveTheBeatles(num) {
-  const  iArray[];
+  const iArray = [];
 }
