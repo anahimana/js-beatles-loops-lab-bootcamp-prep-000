@@ -37,7 +37,7 @@ const facts = [
 var counter = 0;
 function incrementCounter(counter){
   counter = counter + 1;
-  return counter
+  return counter;
 }
 
 
