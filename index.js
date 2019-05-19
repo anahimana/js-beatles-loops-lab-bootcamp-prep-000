@@ -35,5 +35,5 @@ const facts = [
   "He hated the sound of his own voice"
 ];
 
-johnLennonFacts(facts);
+console.log(johnLennonFacts(facts));
 
