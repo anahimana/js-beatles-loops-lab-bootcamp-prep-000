@@ -36,6 +36,10 @@ const facts = [
 
 function iLoveTheBeatles(num) {
   const iArray = [];
+  counter = 1;
+  do {
+    
+  } while()
   return iArray;
 }
 
