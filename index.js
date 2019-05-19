@@ -36,7 +36,7 @@ const facts = [
 
 function iLoveTheBeatles(num) {
   const iArray = [];
-  const counter = 0;
+  let counter = 0;
   do {
     counter += 1;
   } while(counter <= num)
