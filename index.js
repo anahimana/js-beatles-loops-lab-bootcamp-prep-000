@@ -17,8 +17,6 @@ function theBeatlesPlay(arrayPlayers, arrayInstruments) {
 // console.log(theBeatlesPlay(musicians, instruments));
 
 function johnLennonFacts(arrayFacts) {
-  // do something
-  console.log("I am here!");
   // While Loop
   let counter = 0;
   while(counter < arrayFacts.length){
