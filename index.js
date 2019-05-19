@@ -36,7 +36,7 @@ const facts = [
 
 var counter = 0;
 function incrementCounter(counter){
-  return counter += 1
+  return counter += 1;
 }
 
 function iLoveTheBeatles(num) {
