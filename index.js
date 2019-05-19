@@ -39,7 +39,7 @@ function iLoveTheBeatles(num) {
   counter = 1;
   do {
     
-  } while()
+  } while(counter <= num)
   return iArray;
 }
 
