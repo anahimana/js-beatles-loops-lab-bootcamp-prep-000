@@ -20,7 +20,7 @@ function johnLennonFacts(arrayFacts) {
   // While Loop
   let counter = 0;
   var newArray = Object.assign({}, arrayFacts);
-  console.log(newArray)
+  console.log(newArray);
   while(counter < arrayFacts.length){
     counter += 1;
     console.log(arrayFacts[counter] + " !!!");
