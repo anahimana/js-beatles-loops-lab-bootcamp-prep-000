@@ -28,4 +28,5 @@ const facts = [
   "He hated the sound of his own voice"
 ];
 
-johnLennonFacts(facts)
+johnLennonFacts(facts);
+
