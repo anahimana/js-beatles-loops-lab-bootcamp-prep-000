@@ -34,6 +34,8 @@ const facts = [
 
 // console.log(johnLennonFacts(facts));
 
+var counter = 0;
+
 function iLoveTheBeatles(num) {
   const iArray = [];
   let counter = 0;
