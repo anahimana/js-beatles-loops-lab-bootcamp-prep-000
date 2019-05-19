@@ -20,7 +20,7 @@ function johnLennonFacts(arrayFacts) {
   // do something
   console.log("I am here!");
   // While Loop
-  while(arrayFacts){
+  while(arrayFacts.length){
     
   }
 }
