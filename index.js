@@ -40,7 +40,7 @@ function iLoveTheBeatles(num) {
   
   do {
     counter += 1;
-    iArray.push("I love the Beatles!")
+    iArray.push("I love the Beatles!");
   } while(counter <= num);
   
   return iArray;
