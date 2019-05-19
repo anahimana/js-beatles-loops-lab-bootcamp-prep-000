@@ -36,6 +36,7 @@ const facts = [
 
 var counter = 0;
 function incrementCounter(counter){
+  counter = counter + 1;
   return counter += 1;
 }
 
@@ -44,8 +45,7 @@ console.log(incrementCounter(5));
 
 function iLoveTheBeatles(num) {
   const iArray = [];
-  let counter = 0;
-  
+
   do {
     counter += 1;
     iArray.push("I love the Beatles!");
