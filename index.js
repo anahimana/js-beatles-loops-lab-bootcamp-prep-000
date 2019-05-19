@@ -4,7 +4,7 @@ function theBeatlesPlay(arrayPlayers, arrayInstruments) {
   const myArray = [];
   for (let i = 0; i < arrayPlayers.length; i++) {
     // console.log(arrayPlayers[i] + " plays " + arrayInstruments[i].toLowerCase());
-    myArray.push(arrayPlayers[i] + " plays " + arrayInstruments[i].toLowerCase());
+    myArray.push(arrayPlayers[i] + " plays " + arrayInstruments[i]);
     // console.log(myArray);
   }
   
