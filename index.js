@@ -21,7 +21,7 @@ function johnLennonFacts(arrayFacts) {
   console.log("I am here!");
   // While Loop
   let counter = 0;
-  while(arrayFacts.length){
+  while(counter < arrayFacts.length){
     
   }
 }
