@@ -40,7 +40,7 @@ function incrementCounter(counter){
 }
 
 
-console.log(incrementCounter(5))
+console.log(incrementCounter(5));
 
 function iLoveTheBeatles(num) {
   const iArray = [];
