@@ -8,7 +8,6 @@ function theBeatlesPlay(arrayPlayers, arrayInstruments) {
     // console.log(myArray);
   }
   return myArray;
-
 }
 
 const musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"];
