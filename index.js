@@ -4,3 +4,4 @@ function theBeatlesPlay(arrayPlayers, arrayInstruments) {
  return "Hello!";
 }
 
+const myArray = [];
