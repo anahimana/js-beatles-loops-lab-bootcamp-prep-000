@@ -38,7 +38,7 @@ function iLoveTheBeatles(num) {
   const iArray = [];
   counter = 0;
   do {
-    
+    counter += 1
   } while(counter <= num)
   return iArray;
 }
