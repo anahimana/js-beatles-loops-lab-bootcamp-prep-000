@@ -16,6 +16,6 @@ function theBeatlesPlay(arrayPlayers, arrayInstruments) {
 
 // console.log(theBeatlesPlay(musicians, instruments));
 
-function johnLennonFacts() {
+function johnLennonFacts(arrayFacts) {
   // do something
 }
