@@ -53,4 +53,4 @@ function iLoveTheBeatles(num) {
 
 console.log(incrementCounter());
 
-console.log(iLoveTheBeatles(5));
+// console.log(iLoveTheBeatles(5));
