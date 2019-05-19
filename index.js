@@ -47,7 +47,7 @@ function iLoveTheBeatles(num) {
   do {
     counter += 1;
     iArray.push("I love the Beatles!");
-  } while(incrementCounter() < 15);
+  } while(counter < 15);
   
   return iArray;
 }
