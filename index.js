@@ -2,7 +2,8 @@
 
 function theBeatlesPlay(arrayPlayers, arrayInstruments) {
   const myArray = [];
+  for () {
+    
+  }
 
 }
-
-
