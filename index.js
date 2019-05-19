@@ -21,8 +21,9 @@ function johnLennonFacts(arrayFacts) {
   let counter = 0;
   const johnFacts = arrayFacts.slice();
   while(counter < arrayFacts.length){
-    counter += 1;
     johnFacts[counter] = johnFacts[counter] + " !!!";
+    counter += 1;
+
   }
   return johnFacts; 
 }
